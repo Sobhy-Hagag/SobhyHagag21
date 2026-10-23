@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sobhy Hagag 👋
 
-<!--
-**SobhyHagag21/SobhyHagag21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Software Engineering Student
 
-Here are some ideas to get you started:
+I'm a Software Engineering student interested in Data Analysis and Business Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm developing my skills in SQL, Power BI, Python, and data visualization to turn raw data into meaningful insights that support business decisions.
+
+## 🎯 About Me
+
+- 🎓 Software Engineering student at DTU
+- 📊 Interested in Data Analysis and Business Intelligence
+- 🗄️ Learning SQL and database management
+- 📈 Building interactive dashboards using Power BI
+- 🐍 Developing my Python skills for data analysis
+- 🌱 Continuously learning through practical projects
+
+## 🛠️ Tools & Technologies
+
+- **Data Analysis:** SQL, Excel, Python
+- **Business Intelligence:** Power BI, DAX
+- **Databases:** MySQL
+- **Visualization:** Power BI dashboards and reports
+
+## 📂 Featured Projects
+
+My projects will showcase practical applications of data cleaning, exploratory data analysis, SQL queries, and business intelligence dashboards.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/SobhyHagag21
+
+---
+
+*Learning, building, and growing through data.*
